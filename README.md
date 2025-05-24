@@ -65,3 +65,6 @@ Step 5: Play the picture.
 ## OUTPUT:
 ![{E0B1AD56-68B5-4966-8709-4FF7FD4E5EB7}](https://github.com/user-attachments/assets/04e11c9a-4edb-4db2-b875-9beddb826205)
 
+## RESULT:
+Thus to create a motion tweening, shape tweening, guide layer and masking using Flash has been done succesfully.
+
